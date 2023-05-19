@@ -186,8 +186,7 @@ const projects = [
   {
     name: "Sketching Application",
     description:
-      "A Complete Drawing Application like Microsoft Paint for creative drawing shapes, applying color, editing, image
-upload, stamps, etc. Developed with P5.jS libraries, HTML, CSS and JS
+      "A Complete Drawing Application like Microsoft Paint for creative drawing shapes, applying color, editing, image upload, stamps, etc. Developed with P5.jS libraries, HTML, CSS and JS
 .",
     tags: [
       {
@@ -209,8 +208,7 @@ upload, stamps, etc. Developed with P5.jS libraries, HTML, CSS and JS
   {
     name: "Synomemes Web Application",
     description:
-      "Worked with colleage as Frontend Developer on synomemes social media application for sharing memes. With Authentication and Authorization, Meme sharing, likes, comments, and more. Built with PHP, Laravel, MySQL,
-HTML, CSS and Javascript.",
+      "Worked with colleage as Frontend Developer on synomemes social media application for sharing memes. With Authentication and Authorization, Meme sharing, likes, comments, and more. Built with PHP, Laravel, MySQL, HTML, CSS and Javascript.",
     tags: [
       {
         name: "nextjs",
@@ -231,8 +229,7 @@ HTML, CSS and Javascript.",
     {
     name: "Slack Clone Messaging Application",
     description:
-      "A Complete Slack clone with Authentication and Authorization, Channel creation, direct messaging, texting
-with images, videos and emojis, sharing and watching external links in app (e.g. Youtube) and more. Developed with ReactJS, ExpressJS, NodeJS and Stream API.",
+      "A Complete Slack clone with Authentication and Authorization, Channel creation, direct messaging, texting with images, videos and emojis, sharing and watching external links in app (e.g. Youtube) and more. Developed with ReactJS, ExpressJS, NodeJS and Stream API.",
     tags: [
       {
         name: "nextjs",
