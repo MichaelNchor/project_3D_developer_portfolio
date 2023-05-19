@@ -207,7 +207,7 @@ const projects = [
   {
     name: "Synomemes Web Application",
     description:
-      "Worked with colleage as Frontend Developer on synomemes social media application for sharing memes. With Authentication and Authorization, Meme sharing, likes, comments, and more. Built with PHP, Laravel, MySQL, HTML, CSS and Javascript.",
+      "Worked with colleage as Frontend Developer on synomemes social media application for sharing memes. With Authentication and Authorization, Meme sharing, likes, comments, and more. Built with PHP, Laravel, MySQL, HTML, CSS and Javascript.",
     tags: [
       {
         name: "nextjs",
@@ -249,7 +249,7 @@ const projects = [
     {
     name: "Endless Runner Video Game",
     description:
-      "An adventure game, ”adventure boy”, where player has to escape obstacles, risk losing lives to earn coins and capture the flag at the end. Built with P5.JS libraries, HTML, CSS and JS.",
+      "An adventure game, ”adventure boy”, where player has to escape obstacles, risk losing lives to earn coins and capture the flag at the end. Built with P5.JS libraries, HTML, CSS and JS.",
     tags: [
       {
         name: "nextjs",
