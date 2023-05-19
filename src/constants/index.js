@@ -164,8 +164,7 @@ const testimonials = [
 const projects = [
   {
     name: "Superstore Application",
-    description:
-      "A Complete Online store Application with Authentication and Authorization, Admin and User routes, Paypal Payment, Currency change, product review and more. Built with ExpressJS, NodeJS, MongoDB, EJS Templating, HTML, CSS and Javascript.",
+    description: "A Complete Online store Application with Authentication and Authorization, Admin and User routes, Paypal Payment, Currency change, product review and more. Built with ExpressJS, NodeJS, MongoDB, EJS Templating, HTML, CSS and Javascript.",
     tags: [
       {
         name: "react",
@@ -185,8 +184,7 @@ const projects = [
   },
   {
     name: "Sketching Application",
-    description:
-      "A Complete Drawing Application like Microsoft Paint for creative drawing shapes, applying color, editing, image upload, stamps, etc. Developed with P5.jS libraries, HTML, CSS and Javascript.",
+    description: "A Complete Drawing Application like Microsoft Paint for creative drawing shapes, applying color, editing, image upload, stamps, etc. Developed with P5.jS libraries, HTML, CSS and Javascript.",
     tags: [
       {
         name: "react",
@@ -206,8 +204,7 @@ const projects = [
   },
   {
     name: "Synomemes Web Application",
-    description:
-      "Worked with colleage as Frontend Developer on synomemes social media application for sharing memes. With Authentication and Authorization, Meme sharing, likes, comments, and more. Built with PHP, Laravel, MySQL, HTML, CSS and Javascript.",
+    description: "Worked with colleage as Frontend Developer on synomemes social media application for sharing memes. With Authentication and Authorization, Meme sharing, likes, comments, and more. Built with PHP, Laravel, MySQL, HTML, CSS and Javascript.",
     tags: [
       {
         name: "nextjs",
@@ -227,8 +224,7 @@ const projects = [
   },
     {
     name: "Slack Clone Messaging Application",
-    description:
-      "A Complete Slack clone with Authentication and Authorization, Channel creation, direct messaging, texting with images, videos and emojis, sharing and watching external links in app (e.g. Youtube) and more. Developed with ReactJS, ExpressJS, NodeJS and Stream API.",
+    description: "A Complete Slack clone with Authentication and Authorization, Channel creation, direct messaging, texting with images, videos and emojis, sharing and watching external links in app (e.g. Youtube) and more. Developed with ReactJS, ExpressJS, NodeJS and Stream API.",
     tags: [
       {
         name: "nextjs",
@@ -248,8 +244,7 @@ const projects = [
   },
     {
     name: "Endless Runner Video Game",
-    description:
-      "An adventure game, adventure boy, where player has to escape obstacles, risk losing lives to earn coins and capture the flag at the end. Built with P5.JS libraries, HTML, CSS and JS.",
+    description: "An adventure game, adventure boy, where player has to escape obstacles, risk losing lives to earn coins and capture the flag at the end. Built with P5.JS libraries, HTML, CSS and JS.",
     tags: [
       {
         name: "nextjs",
@@ -269,8 +264,7 @@ const projects = [
   },
     {
     name: "Warehouse Management Application",
-    description:
-      "A Warehouse Management system made with Angularjs, Express js, Node js, PostgreSQL.",
+    description: "A Warehouse Management system made with Angularjs, Express js, Node js, PostgreSQL.",
     tags: [
       {
         name: "nextjs",
@@ -290,8 +284,7 @@ const projects = [
   },
     {
     name: "Pokemon Website",
-    description:
-      "A Themepark Website built with HTML, CSS and Javascript with booking and ticketting.",
+    description: "A Themepark Website built with HTML, CSS and Javascript with booking and ticketting.",
     tags: [
       {
         name: "nextjs",
@@ -311,8 +304,7 @@ const projects = [
   },
     {
     name: "Todo List App",
-    description:
-      "A Todo list application built with React js, Express js, Node js and MySQL ",
+    description: "A Todo list application built with React js, Express js, Node js and MySQL ",
     tags: [
       {
         name: "nextjs",
@@ -332,8 +324,7 @@ const projects = [
   },
     {
     name: "Google keep clone",
-    description:
-      "Keeper google keep UI clone for taking notes built with React js, and Tailwind css",
+    description: "Keeper google keep UI clone for taking notes built with React js, and Tailwind css",
     tags: [
       {
         name: "nextjs",
@@ -353,8 +344,7 @@ const projects = [
   },
     {
     name: "Data Visualization Application",
-    description:
-      "A Data visualization Application built with p5 js libraries, HTML, CSS and Javascript.",
+    description: "A Data visualization Application built with p5 js libraries, HTML, CSS and Javascript.",
     tags: [
       {
         name: "nextjs",
@@ -374,8 +364,7 @@ const projects = [
   },
     {
     name: "Music Visualizer Application",
-    description:
-      "Visualize music by various components like tempo, rhythm etc. built with p5.js libraries, HTML, CSS and Javascript.",
+    description: "Visualize music by various components like tempo, rhythm etc. built with p5.js libraries, HTML, CSS and Javascript.",
     tags: [
       {
         name: "nextjs",
@@ -395,8 +384,7 @@ const projects = [
   },
     {
     name: "Rock-Paper-Scissors Application",
-    description:
-      "A complete Rock-paper-scissors game built with, Tailwind , HTML, CSS and Javascript.",
+    description: "A complete Rock-paper-scissors game built with, Tailwind , HTML, CSS and Javascript.",
     tags: [
       {
         name: "nextjs",
@@ -416,8 +404,7 @@ const projects = [
   },
     {
     name: "Anime Documentation page",
-    description:
-      "Documentation for one piece characters with nightmode, built with HTML, CSS and Javascript.",
+    description:  "Documentation for one piece characters with nightmode, built with HTML, CSS and Javascript.",
     tags: [
       {
         name: "nextjs",
