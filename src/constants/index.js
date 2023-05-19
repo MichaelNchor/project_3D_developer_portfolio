@@ -42,7 +42,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Software/Web Developer",
+    title: "Software & Web Developer",
     icon: web,
   },
   {
@@ -90,14 +90,6 @@ const technologies = [
   },
   {
     name: "MongoDB",
-    icon: mongodb,
-  },
-   {
-    name: "PostgreSQL",
-    icon: mongodb,
-  },
-    {
-    name: ".NET",
     icon: mongodb,
   },
   {
