@@ -222,206 +222,206 @@ const projects = [
     image: tripguide,
     source_code_link: "https://github.com/",
   },
-    {
-    name: "Slack Clone Messaging Application",
-    description: "A Complete Slack clone with Authentication and Authorization, Channel creation, direct messaging, texting with images, videos and emojis, sharing and watching external links in app (e.g. Youtube) and more. Developed with ReactJS, ExpressJS, NodeJS and Stream API.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-  },
-    {
-    name: "Endless Runner Video Game",
-    description: "An adventure game, adventure boy, where player has to escape obstacles, risk losing lives to earn coins and capture the flag at the end. Built with P5.JS libraries, HTML, CSS and JS.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-  },
-    {
-    name: "Warehouse Management Application",
-    description: "A Warehouse Management system made with Angularjs, Express js, Node js, PostgreSQL.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-  },
-    {
-    name: "Pokemon Website",
-    description: "A Themepark Website built with HTML, CSS and Javascript with booking and ticketting.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-  },
-    {
-    name: "Todo List App",
-    description: "A Todo list application built with React js, Express js, Node js and MySQL ",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-  },
-    {
-    name: "Google keep clone",
-    description: "Keeper google keep UI clone for taking notes built with React js, and Tailwind css",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-  },
-    {
-    name: "Data Visualization Application",
-    description: "A Data visualization Application built with p5 js libraries, HTML, CSS and Javascript.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-  },
-    {
-    name: "Music Visualizer Application",
-    description: "Visualize music by various components like tempo, rhythm etc. built with p5.js libraries, HTML, CSS and Javascript.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-  },
-    {
-    name: "Rock-Paper-Scissors Application",
-    description: "A complete Rock-paper-scissors game built with, Tailwind , HTML, CSS and Javascript.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-  },
-    {
-    name: "Anime Documentation page",
-    description:  "Documentation for one piece characters with nightmode, built with HTML, CSS and Javascript.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-  },
+//     {
+//     name: "Slack Clone Messaging Application",
+//     description: "A Complete Slack clone with Authentication and Authorization, Channel creation, direct messaging, texting with images, videos and emojis, sharing and watching external links in app (e.g. Youtube) and more. Developed with ReactJS, ExpressJS, NodeJS and Stream API.",
+//     tags: [
+//       {
+//         name: "nextjs",
+//         color: "blue-text-gradient",
+//       },
+//       {
+//         name: "supabase",
+//         color: "green-text-gradient",
+//       },
+//       {
+//         name: "css",
+//         color: "pink-text-gradient",
+//       },
+//     ],
+//     image: tripguide,
+//     source_code_link: "https://github.com/",
+//   },
+//     {
+//     name: "Endless Runner Video Game",
+//     description: "An adventure game, adventure boy, where player has to escape obstacles, risk losing lives to earn coins and capture the flag at the end. Built with P5.JS libraries, HTML, CSS and JS.",
+//     tags: [
+//       {
+//         name: "nextjs",
+//         color: "blue-text-gradient",
+//       },
+//       {
+//         name: "supabase",
+//         color: "green-text-gradient",
+//       },
+//       {
+//         name: "css",
+//         color: "pink-text-gradient",
+//       },
+//     ],
+//     image: tripguide,
+//     source_code_link: "https://github.com/",
+//   },
+//     {
+//     name: "Warehouse Management Application",
+//     description: "A Warehouse Management system made with Angularjs, Express js, Node js, PostgreSQL.",
+//     tags: [
+//       {
+//         name: "nextjs",
+//         color: "blue-text-gradient",
+//       },
+//       {
+//         name: "supabase",
+//         color: "green-text-gradient",
+//       },
+//       {
+//         name: "css",
+//         color: "pink-text-gradient",
+//       },
+//     ],
+//     image: tripguide,
+//     source_code_link: "https://github.com/",
+//   },
+//     {
+//     name: "Pokemon Website",
+//     description: "A Themepark Website built with HTML, CSS and Javascript with booking and ticketting.",
+//     tags: [
+//       {
+//         name: "nextjs",
+//         color: "blue-text-gradient",
+//       },
+//       {
+//         name: "supabase",
+//         color: "green-text-gradient",
+//       },
+//       {
+//         name: "css",
+//         color: "pink-text-gradient",
+//       },
+//     ],
+//     image: tripguide,
+//     source_code_link: "https://github.com/",
+//   },
+//     {
+//     name: "Todo List App",
+//     description: "A Todo list application built with React js, Express js, Node js and MySQL ",
+//     tags: [
+//       {
+//         name: "nextjs",
+//         color: "blue-text-gradient",
+//       },
+//       {
+//         name: "supabase",
+//         color: "green-text-gradient",
+//       },
+//       {
+//         name: "css",
+//         color: "pink-text-gradient",
+//       },
+//     ],
+//     image: tripguide,
+//     source_code_link: "https://github.com/",
+//   },
+//     {
+//     name: "Google keep clone",
+//     description: "Keeper google keep UI clone for taking notes built with React js, and Tailwind css",
+//     tags: [
+//       {
+//         name: "nextjs",
+//         color: "blue-text-gradient",
+//       },
+//       {
+//         name: "supabase",
+//         color: "green-text-gradient",
+//       },
+//       {
+//         name: "css",
+//         color: "pink-text-gradient",
+//       },
+//     ],
+//     image: tripguide,
+//     source_code_link: "https://github.com/",
+//   },
+//     {
+//     name: "Data Visualization Application",
+//     description: "A Data visualization Application built with p5 js libraries, HTML, CSS and Javascript.",
+//     tags: [
+//       {
+//         name: "nextjs",
+//         color: "blue-text-gradient",
+//       },
+//       {
+//         name: "supabase",
+//         color: "green-text-gradient",
+//       },
+//       {
+//         name: "css",
+//         color: "pink-text-gradient",
+//       },
+//     ],
+//     image: tripguide,
+//     source_code_link: "https://github.com/",
+//   },
+//     {
+//     name: "Music Visualizer Application",
+//     description: "Visualize music by various components like tempo, rhythm etc. built with p5.js libraries, HTML, CSS and Javascript.",
+//     tags: [
+//       {
+//         name: "nextjs",
+//         color: "blue-text-gradient",
+//       },
+//       {
+//         name: "supabase",
+//         color: "green-text-gradient",
+//       },
+//       {
+//         name: "css",
+//         color: "pink-text-gradient",
+//       },
+//     ],
+//     image: tripguide,
+//     source_code_link: "https://github.com/",
+//   },
+//     {
+//     name: "Rock-Paper-Scissors Application",
+//     description: "A complete Rock-paper-scissors game built with, Tailwind , HTML, CSS and Javascript.",
+//     tags: [
+//       {
+//         name: "nextjs",
+//         color: "blue-text-gradient",
+//       },
+//       {
+//         name: "supabase",
+//         color: "green-text-gradient",
+//       },
+//       {
+//         name: "css",
+//         color: "pink-text-gradient",
+//       },
+//     ],
+//     image: tripguide,
+//     source_code_link: "https://github.com/",
+//   },
+//     {
+//     name: "Anime Documentation page",
+//     description:  "Documentation for one piece characters with nightmode, built with HTML, CSS and Javascript.",
+//     tags: [
+//       {
+//         name: "nextjs",
+//         color: "blue-text-gradient",
+//       },
+//       {
+//         name: "supabase",
+//         color: "green-text-gradient",
+//       },
+//       {
+//         name: "css",
+//         color: "pink-text-gradient",
+//       },
+//     ],
+//     image: tripguide,
+//     source_code_link: "https://github.com/",
+//   },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
