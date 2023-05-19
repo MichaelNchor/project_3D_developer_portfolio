@@ -163,9 +163,10 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Superstore Application",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      A Complete Online store Application with Authentication and Authorization, Admin and User routes, Paypal
+Payment, Currency change, product review and more. Built with ExpressJS, NodeJS, MongoDB, EJS Templating, HTML, CSS and Javascript.",
     tags: [
       {
         name: "react",
@@ -184,9 +185,11 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Sketching Application",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A Complete Drawing Application like Microsoft Paint for creative drawing shapes, applying color, editing, image
+upload, stamps, etc. Developed with P5.jS libraries, HTML, CSS and JS
+.",
     tags: [
       {
         name: "react",
@@ -205,9 +208,10 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Synomemes Web Application",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Worked with colleage as Frontend Developer on synomemes social media application for sharing memes. With Authentication and Authorization, Meme sharing, likes, comments, and more. Built with PHP, Laravel, MySQL,
+HTML, CSS and Javascript.",
     tags: [
       {
         name: "nextjs",
@@ -226,9 +230,10 @@ const projects = [
     source_code_link: "https://github.com/",
   },
     {
-    name: "Trip Guide",
+    name: "Slack Clone Messaging Application",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Complete Slack clone with Authentication and Authorization, Channel creation, direct messaging, texting
+with images, videos and emojis, sharing and watching external links in app (e.g. Youtube) and more. Developed with ReactJS, ExpressJS, NodeJS and Stream API.",
     tags: [
       {
         name: "nextjs",
@@ -247,9 +252,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
     {
-    name: "Trip Guide",
+    name: "Endless Runner Video Game",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "An adventure game, ”adventure boy”, where player has to escape obstacles, risk losing lives to earn coins and capture the flag at the end. Built with P5.JS libraries, HTML, CSS and JS.",
     tags: [
       {
         name: "nextjs",
@@ -268,9 +273,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
     {
-    name: "Trip Guide",
+    name: "Warehouse Management Application",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Warehouse Management system made with Angularjs, Express js, Node js, PostgreSQL.",
     tags: [
       {
         name: "nextjs",
@@ -289,9 +294,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
     {
-    name: "Trip Guide",
+    name: "Pokemon Website",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Themepark Website built with HTML, CSS and Javascript with booking and ticketting.",
     tags: [
       {
         name: "nextjs",
@@ -310,9 +315,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
     {
-    name: "Trip Guide",
+    name: "Todo List App",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Todo list application built with React js, Express js, Node js and MySQL ",
     tags: [
       {
         name: "nextjs",
@@ -331,9 +336,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
     {
-    name: "Trip Guide",
+    name: "Google keep clone",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Keeper google keep UI clone for taking notes built with React js, and Tailwind css",
     tags: [
       {
         name: "nextjs",
@@ -352,9 +357,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
     {
-    name: "Trip Guide",
+    name: "Data Visualization Application",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A Data visualization Application built with p5 js libraries, HTML, CSS and Javascript.",
     tags: [
       {
         name: "nextjs",
@@ -373,9 +378,51 @@ const projects = [
     source_code_link: "https://github.com/",
   },
     {
-    name: "Trip Guide",
+    name: "Music Visualizer Application",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Visualize music by various components like tempo, rhythm etc. built with p5.js libraries, HTML, CSS and Javascript.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/",
+  },
+    {
+    name: "Rock-Paper-Scissors Application",
+    description:
+      "A complete Rock-paper-scissors game built with, Tailwind , HTML, CSS and Javascript.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/",
+  },
+    {
+    name: "Anime Documentation page",
+    description:
+      "Documentation for one piece characters with nightmode, built with HTML, CSS and Javascript.",
     tags: [
       {
         name: "nextjs",
