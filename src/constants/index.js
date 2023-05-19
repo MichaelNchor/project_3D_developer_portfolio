@@ -170,10 +170,10 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
+      "Very Hardworking and Punctual. Always finding solutions and helping the group",
+    name: "Joseph Danquah",
+    designation: "UITS",
+    company: "PHP Developer",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
