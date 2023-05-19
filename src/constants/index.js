@@ -165,8 +165,7 @@ const projects = [
   {
     name: "Superstore Application",
     description:
-      A Complete Online store Application with Authentication and Authorization, Admin and User routes, Paypal
-Payment, Currency change, product review and more. Built with ExpressJS, NodeJS, MongoDB, EJS Templating, HTML, CSS and Javascript.",
+      "A Complete Online store Application with Authentication and Authorization, Admin and User routes, Paypal Payment, Currency change, product review and more. Built with ExpressJS, NodeJS, MongoDB, EJS Templating, HTML, CSS and Javascript.",
     tags: [
       {
         name: "react",
