@@ -186,8 +186,7 @@ const projects = [
   {
     name: "Sketching Application",
     description:
-      "A Complete Drawing Application like Microsoft Paint for creative drawing shapes, applying color, editing, image upload, stamps, etc. Developed with P5.jS libraries, HTML, CSS and JS
-.",
+      "A Complete Drawing Application like Microsoft Paint for creative drawing shapes, applying color, editing, image upload, stamps, etc. Developed with P5.jS libraries, HTML, CSS and Javascript.",
     tags: [
       {
         name: "react",
