@@ -50,6 +50,7 @@ import me from "./me.jpg";
 import joe from "./joe.png";
 
 export {
+  joe,
   me,
   uits,
   ilp,
