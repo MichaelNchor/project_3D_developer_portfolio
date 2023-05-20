@@ -1,5 +1,6 @@
 import {
   todolist,
+  slack,
   adventureboy,
   datavis,
   drawing,
@@ -212,7 +213,7 @@ const projects = [
             "color":"pink-text-gradient"
          }
       ],
-      "image":"slack",
+      "image":slack,
       "source_code_link":"https://github.com/"
    },
      {
