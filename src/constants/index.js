@@ -304,15 +304,15 @@ const projects = [
       "description":"A Warehouse Management system made with Angularjs, Express js, Node js, PostgreSQL.",
       "tags":[
          {
-            "name":"nextjs",
+            "name":"angularjs",
             "color":"blue-text-gradient"
          },
          {
-            "name":"supabase",
+            "name":"mongodb",
             "color":"green-text-gradient"
          },
          {
-            "name":"css",
+            "name":"expressjs",
             "color":"pink-text-gradient"
          }
       ],
@@ -324,16 +324,16 @@ const projects = [
       "description":"A Themepark Website built with HTML, CSS and Javascript with booking and ticketting.",
       "tags":[
          {
-            "name":"nextjs",
+            "name":"javascript",
             "color":"blue-text-gradient"
          },
          {
-            "name":"supabase",
-            "color":"green-text-gradient"
-         },
-         {
-            "name":"css",
+            "name":"html",
             "color":"pink-text-gradient"
+         },
+          {
+            "name":"css",
+            "color":"red-text-gradient"
          }
       ],
       "image":parksite,
@@ -344,16 +344,28 @@ const projects = [
       "description":"A Todo list application built with React js, Express js, Node js and MySQL ",
       "tags":[
          {
-            "name":"nextjs",
+            "name":"reactjs",
             "color":"blue-text-gradient"
          },
          {
-            "name":"supabase",
+            "name":"mysql",
             "color":"green-text-gradient"
          },
          {
-            "name":"css",
+            "name":"expressjs",
             "color":"pink-text-gradient"
+         },
+         {
+            "name":"tailwind",
+            "color":"blue-text-gradient"
+         },
+         {
+            "name":"html",
+            "color":"pink-text-gradient"
+         },
+          {
+            "name":"css",
+            "color":"red-text-gradient"
          }
       ],
       "image":todolist,
@@ -364,16 +376,28 @@ const projects = [
       "description":"Keeper google keep UI clone for taking notes built with React js, and Tailwind css",
       "tags":[
          {
-            "name":"nextjs",
+            "name":"reactjs",
             "color":"blue-text-gradient"
          },
          {
-            "name":"supabase",
+            "name":"mysql",
             "color":"green-text-gradient"
          },
          {
-            "name":"css",
+            "name":"expressjs",
             "color":"pink-text-gradient"
+         },
+         {
+            "name":"tailwind",
+            "color":"blue-text-gradient"
+         },
+         {
+            "name":"html",
+            "color":"pink-text-gradient"
+         },
+          {
+            "name":"css",
+            "color":"red-text-gradient"
          }
       ],
       "image":keeper,
@@ -384,16 +408,20 @@ const projects = [
       "description":"A Data visualization Application built with p5 js libraries, HTML, CSS and Javascript.",
       "tags":[
          {
-            "name":"nextjs",
+            "name":"javascript",
             "color":"blue-text-gradient"
          },
          {
-            "name":"supabase",
+            "name":"p5.js",
             "color":"green-text-gradient"
          },
          {
-            "name":"css",
+            "name":"html",
             "color":"pink-text-gradient"
+         },
+          {
+            "name":"css",
+            "color":"red-text-gradient"
          }
       ],
       "image":datavis,
@@ -404,16 +432,20 @@ const projects = [
       "description":"Visualize music by various components like tempo, rhythm etc. built with p5.js libraries, HTML, CSS and Javascript.",
       "tags":[
          {
-            "name":"nextjs",
+            "name":"javascript",
             "color":"blue-text-gradient"
          },
          {
-            "name":"supabase",
+            "name":"p5.js",
             "color":"green-text-gradient"
          },
          {
-            "name":"css",
+            "name":"html",
             "color":"pink-text-gradient"
+         },
+          {
+            "name":"css",
+            "color":"red-text-gradient"
          }
       ],
       "image":musicvis,
@@ -424,16 +456,21 @@ const projects = [
       "description":"A complete Rock-paper-scissors game built with, Tailwind , HTML, CSS and Javascript.",
       "tags":[
          {
-            "name":"nextjs",
+         {
+            "name":"javascript",
             "color":"blue-text-gradient"
          },
          {
-            "name":"supabase",
+            "name":"tailwind",
             "color":"green-text-gradient"
          },
          {
-            "name":"css",
+            "name":"html",
             "color":"pink-text-gradient"
+         },
+          {
+            "name":"css",
+            "color":"red-text-gradient"
          }
       ],
       "image":rockpaperscissors,
@@ -444,16 +481,16 @@ const projects = [
       "description":"Documentation for one piece characters with nightmode, built with HTML, CSS and Javascript.",
       "tags":[
          {
-            "name":"nextjs",
+            "name":"javascript",
             "color":"blue-text-gradient"
          },
          {
-            "name":"supabase",
-            "color":"green-text-gradient"
-         },
-         {
-            "name":"css",
+            "name":"html",
             "color":"pink-text-gradient"
+         },
+          {
+            "name":"css",
+            "color":"red-text-gradient"
          }
       ],
       "image":onepiece,
