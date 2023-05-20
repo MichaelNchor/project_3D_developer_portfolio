@@ -20,7 +20,8 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I am a Javascript Developer 4+ years <br className='sm:block hidden' />
-            into my Development Journey. Seeking internships and work.
+            A Fullstack Developer with a degree in Mathematics and Computer Science. I am 4+ years into my development journey.<br className='sm:block hidden' />
+            Contact me, Let's work together to bring your ideas to life!
           </p>
         </div>
       </div>
