@@ -456,7 +456,6 @@ const projects = [
       "description":"A complete Rock-paper-scissors game built with, Tailwind , HTML, CSS and Javascript.",
       "tags":[
          {
-         {
             "name":"javascript",
             "color":"blue-text-gradient"
          },
