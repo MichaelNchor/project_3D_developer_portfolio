@@ -248,7 +248,7 @@ const projects = [
       ],
       "image":adventureboy,
       "source_code_link":"https://github.com/MichaelNchor/AdventureBoy",
-       "live_demo_link":"#",
+       "live_demo_link":"https://michaelnchor.github.io/AdventureBoy/",
    },
    {
       "name":"Sketching Application",
@@ -273,7 +273,7 @@ const projects = [
       ],
       "image": drawing,
       "source_code_link":"https://github.com/MichaelNchor/DrawingApp",
-     "live_demo_link":"#",
+     "live_demo_link":"https://michaelnchor.github.io/DrawingApp/",
    },
    {
       "name":"Synomemes Web Application",
@@ -343,8 +343,8 @@ const projects = [
          }
       ],
       "image":parksite,
-      "source_code_link":"https://github.com/MichaelNchor/angular-crud-application",
-     "live_demo_link":"#",
+      "source_code_link":"https://github.com/MichaelNchor/Themepark-site",
+     "live_demo_link":"https://michaelnchor.github.io/Themepark-site/",
    },
    {
       "name":"Todo List App",
@@ -435,7 +435,7 @@ const projects = [
       ],
       "image":datavis,
       "source_code_link":"https://github.com/MichaelNchor/Data-Visualizer",
-     "live_demo_link":"#",
+     "live_demo_link":"",
    },
    {
       "name":"Music Visualizer Application",
@@ -460,7 +460,7 @@ const projects = [
       ],
       "image":musicvis,
       "source_code_link":"https://github.com/MichaelNchor/MusicVisualizer",
-     "live_demo_link":"#",
+     "live_demo_link":"https://michaelnchor.github.io/MusicVisualizer/",
    },
    {
       "name":"Rock-Paper-Scissors Application",
@@ -485,7 +485,7 @@ const projects = [
       ],
       "image":rockpaperscissors,
       "source_code_link":"https://github.com/MichaelNchor/Rock-Paper-Scissors",
-     "live_demo_link":"#",
+     "live_demo_link":"https://michaelnchor.github.io/Rock-Paper-Scissors/",
    },
    {
       "name":"Anime Documentation page",
@@ -506,7 +506,7 @@ const projects = [
       ],
       "image":onepiece,
       "source_code_link":"https://codepen.io/michaelnchor/pen/OJjgQeG",
-     "live_demo_link":"#",
+     "live_demo_link":"https://codepen.io/michaelnchor/pen/OJjgQeG",
    }
 ];
 
