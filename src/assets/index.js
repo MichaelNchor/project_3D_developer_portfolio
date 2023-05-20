@@ -43,9 +43,11 @@ import rockpaperscissors from "./rock-paper-scissors.png";
 import superstore from "./superstore.png";
 import synomemes from "./synomemes.png";
 import warehouse from "./warehouse.png";
+import slack from "./slack.png";
 
 export {
   todolist,
+  slack,
   adventureboy,
   datavis,
   drawing,
