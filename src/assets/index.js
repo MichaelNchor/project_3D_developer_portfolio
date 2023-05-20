@@ -47,6 +47,7 @@ import synomemes from "./synomemes.png";
 import warehouse from "./warehouse.png";
 import slack from "./slack.png";
 import me from "./me.jpg";
+import joe from "./joe.png";
 
 export {
   me,
