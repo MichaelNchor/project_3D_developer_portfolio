@@ -1,4 +1,17 @@
 import {
+  todolist,
+  adventureboy,
+  datavis,
+  drawing,
+  hallofmusic,
+  keeper,
+  musicvis,
+  onepiece,
+  parksite,
+  rockpaperscissors,
+  superstore,
+  synomemes,
+  warehouse,
   mobile,
   backend,
   creator,
@@ -179,7 +192,7 @@ const projects = [
             "color":"pink-text-gradient"
          }
       ],
-      "image":"carrent",
+      "image": superstore,
       "source_code_link":"https://github.com/"
    },
    {
@@ -199,7 +212,7 @@ const projects = [
             "color":"pink-text-gradient"
          }
       ],
-      "image":"jobit",
+      "image": drawing,
       "source_code_link":"https://github.com/"
    },
    {
@@ -219,7 +232,7 @@ const projects = [
             "color":"pink-text-gradient"
          }
       ],
-      "image":"tripguide",
+      "image": synomemes,
       "source_code_link":"https://github.com/"
    },
    {
@@ -239,7 +252,7 @@ const projects = [
             "color":"pink-text-gradient"
          }
       ],
-      "image":"tripguide",
+      "image":"slack",
       "source_code_link":"https://github.com/"
    },
    {
@@ -259,7 +272,7 @@ const projects = [
             "color":"pink-text-gradient"
          }
       ],
-      "image":"tripguide",
+      "image":adventureboy,
       "source_code_link":"https://github.com/"
    },
    {
@@ -279,7 +292,7 @@ const projects = [
             "color":"pink-text-gradient"
          }
       ],
-      "image":"tripguide",
+      "image":warehouse,
       "source_code_link":"https://github.com/"
    },
    {
@@ -299,7 +312,7 @@ const projects = [
             "color":"pink-text-gradient"
          }
       ],
-      "image":"tripguide",
+      "image":parksite,
       "source_code_link":"https://github.com/"
    },
    {
@@ -319,7 +332,7 @@ const projects = [
             "color":"pink-text-gradient"
          }
       ],
-      "image":"tripguide",
+      "image":todolist,
       "source_code_link":"https://github.com/"
    },
    {
@@ -339,7 +352,7 @@ const projects = [
             "color":"pink-text-gradient"
          }
       ],
-      "image":"tripguide",
+      "image":keeper,
       "source_code_link":"https://github.com/"
    },
    {
@@ -359,7 +372,7 @@ const projects = [
             "color":"pink-text-gradient"
          }
       ],
-      "image":"tripguide",
+      "image":datavis,
       "source_code_link":"https://github.com/"
    },
    {
@@ -379,7 +392,7 @@ const projects = [
             "color":"pink-text-gradient"
          }
       ],
-      "image":"tripguide",
+      "image":musicvis,
       "source_code_link":"https://github.com/"
    },
    {
@@ -399,7 +412,7 @@ const projects = [
             "color":"pink-text-gradient"
          }
       ],
-      "image":"tripguide",
+      "image":rockpaperscissors,
       "source_code_link":"https://github.com/"
    },
    {
@@ -419,7 +432,7 @@ const projects = [
             "color":"pink-text-gradient"
          }
       ],
-      "image":"tripguide",
+      "image":onepiece,
       "source_code_link":"https://github.com/"
    }
 ];
