@@ -435,7 +435,7 @@ const projects = [
       ],
       "image":datavis,
       "source_code_link":"https://github.com/MichaelNchor/Data-Visualizer",
-     "live_demo_link":"",
+     "live_demo_link":"https://michaelnchor.github.io/Data-Visualizer/",
    },
    {
       "name":"Music Visualizer Application",
