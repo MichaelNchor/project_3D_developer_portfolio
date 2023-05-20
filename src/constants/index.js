@@ -201,7 +201,8 @@ const projects = [
          }
       ],
       "image": superstore,
-      "source_code_link":"https://github.com/MichaelNchor/superstore"
+      "source_code_link":"https://github.com/MichaelNchor/superstore",
+     "live_demo_link":"#",
    },
      {
       "name":"Slack Clone Messaging Application",
@@ -221,7 +222,8 @@ const projects = [
          }
       ],
       "image":slack,
-      "source_code_link":"https://github.com/"
+      "source_code_link":"https://github.com/",
+       "live_demo_link":"#",
    },
      {
       "name":"Endless Runner Video Game",
@@ -245,7 +247,8 @@ const projects = [
          }
       ],
       "image":adventureboy,
-      "source_code_link":"https://github.com/MichaelNchor/AdventureBoy"
+      "source_code_link":"https://github.com/MichaelNchor/AdventureBoy",
+       "live_demo_link":"#",
    },
    {
       "name":"Sketching Application",
@@ -269,7 +272,8 @@ const projects = [
          }
       ],
       "image": drawing,
-      "source_code_link":"https://github.com/MichaelNchor/DrawingApp"
+      "source_code_link":"https://github.com/MichaelNchor/DrawingApp",
+     "live_demo_link":"#",
    },
    {
       "name":"Synomemes Web Application",
@@ -297,7 +301,8 @@ const projects = [
          },        
       ],
       "image": synomemes,
-      "source_code_link":"https://github.com/MichaelNchor/Meme-World"
+      "source_code_link":"https://github.com/MichaelNchor/Meme-World",
+     "live_demo_link":"#",
    },
    {
       "name":"Warehouse Management Application",
@@ -317,7 +322,8 @@ const projects = [
          }
       ],
       "image":warehouse,
-      "source_code_link":"https://github.com/MichaelNchor/angular-crud-application"
+      "source_code_link":"https://github.com/MichaelNchor/angular-crud-application",
+     "live_demo_link":"#",
    },
    {
       "name":"Pokemon Website",
@@ -337,7 +343,8 @@ const projects = [
          }
       ],
       "image":parksite,
-      "source_code_link":"https://github.com/MichaelNchor/angular-crud-application"
+      "source_code_link":"https://github.com/MichaelNchor/angular-crud-application",
+     "live_demo_link":"#",
    },
    {
       "name":"Todo List App",
@@ -369,7 +376,8 @@ const projects = [
          }
       ],
       "image":todolist,
-      "source_code_link":"https://github.com/MichaelNchor/TodoList"
+      "source_code_link":"https://github.com/MichaelNchor/TodoList",
+     "live_demo_link":"#",
    },
    {
       "name":"Google keep clone",
@@ -401,7 +409,8 @@ const projects = [
          }
       ],
       "image":keeper,
-      "source_code_link":"https://github.com/MichaelNchor/Google-Keep-Clone"
+      "source_code_link":"https://github.com/MichaelNchor/Google-Keep-Clone",
+     "live_demo_link":"#",
    },
    {
       "name":"Data Visualization Application",
@@ -425,7 +434,8 @@ const projects = [
          }
       ],
       "image":datavis,
-      "source_code_link":"https://github.com/MichaelNchor/Data-Visualizer"
+      "source_code_link":"https://github.com/MichaelNchor/Data-Visualizer",
+     "live_demo_link":"#",
    },
    {
       "name":"Music Visualizer Application",
@@ -449,7 +459,8 @@ const projects = [
          }
       ],
       "image":musicvis,
-      "source_code_link":"https://github.com/MichaelNchor/MusicVisualizer"
+      "source_code_link":"https://github.com/MichaelNchor/MusicVisualizer",
+     "live_demo_link":"#",
    },
    {
       "name":"Rock-Paper-Scissors Application",
@@ -473,7 +484,8 @@ const projects = [
          }
       ],
       "image":rockpaperscissors,
-      "source_code_link":"https://github.com/MichaelNchor/Rock-Paper-Scissors"
+      "source_code_link":"https://github.com/MichaelNchor/Rock-Paper-Scissors",
+     "live_demo_link":"#",
    },
    {
       "name":"Anime Documentation page",
@@ -493,7 +505,8 @@ const projects = [
          }
       ],
       "image":onepiece,
-      "source_code_link":"https://codepen.io/michaelnchor/pen/OJjgQeG"
+      "source_code_link":"https://codepen.io/michaelnchor/pen/OJjgQeG",
+     "live_demo_link":"#",
    }
 ];
 
