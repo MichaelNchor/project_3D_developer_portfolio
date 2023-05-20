@@ -202,7 +202,7 @@ const projects = [
       ],
       "image": superstore,
       "source_code_link":"https://github.com/MichaelNchor/superstore",
-     "live_demo_link":"#",
+     "live_demo_link":"https://superstore-iy8m.onrender.com",
    },
      {
       "name":"Slack Clone Messaging Application",
