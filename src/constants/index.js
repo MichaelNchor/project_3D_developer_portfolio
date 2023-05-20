@@ -132,7 +132,7 @@ const experiences = [
     title: "Software Developer",
     company_name: "University Information Technology Services (UITS)",
     icon: uits,
-    iconBg: "#383E56",
+    iconBg: "#E6DEDD",
     date: "Oct 2022 - Oct 2023",
     points: [
       "Built a C# ASP.NET and SQL Server, Tailwindcss, ExpressJS, NodeJS and EJS Templating application to digitise student hard ID cards into soft cards which can be scanned to verify student status.",
