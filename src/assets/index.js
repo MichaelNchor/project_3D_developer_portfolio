@@ -25,6 +25,8 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import ilp from "./ilp.png";
+import uits from "./uits.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -46,6 +48,8 @@ import warehouse from "./warehouse.png";
 import slack from "./slack.png";
 
 export {
+  uits,
+  ilp,
   todolist,
   slack,
   adventureboy,
