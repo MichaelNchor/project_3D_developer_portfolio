@@ -181,16 +181,20 @@ const projects = [
       "description":"A Complete Online store Application with Authentication and Authorization, Admin and User routes, Paypal Payment, Currency change, product review and more. Built with ExpressJS, NodeJS, MongoDB, EJS Templating, HTML, CSS and Javascript.",
       "tags":[
          {
-            "name":"react",
+            "name":"nodejs",
             "color":"blue-text-gradient"
+         },
+         {
+            "name":"expressjs",
+            "color":"pink-text-gradient"
          },
          {
             "name":"mongodb",
             "color":"green-text-gradient"
          },
          {
-            "name":"tailwind",
-            "color":"pink-text-gradient"
+            "name":"bootstrap",
+            "color":"red-text-gradient"
          }
       ],
       "image": superstore,
@@ -201,15 +205,15 @@ const projects = [
       "description":"A Complete Slack clone with Authentication and Authorization, Channel creation, direct messaging, texting with images, videos and emojis, sharing and watching external links in app (e.g. Youtube) and more. Developed with ReactJS, ExpressJS, NodeJS and Stream API.",
       "tags":[
          {
-            "name":"nextjs",
+            "name":"reactjs",
             "color":"blue-text-gradient"
          },
          {
-            "name":"supabase",
+            "name":"streamapi",
             "color":"green-text-gradient"
          },
          {
-            "name":"css",
+            "name":"tailwind",
             "color":"pink-text-gradient"
          }
       ],
@@ -221,16 +225,20 @@ const projects = [
       "description":"An adventure game, adventure boy, where player has to escape obstacles, risk losing lives to earn coins and capture the flag at the end. Built with P5.JS libraries, HTML, CSS and JS.",
       "tags":[
          {
-            "name":"nextjs",
+            "name":"javascript",
             "color":"blue-text-gradient"
          },
          {
-            "name":"supabase",
+            "name":"p5.js",
             "color":"green-text-gradient"
          },
          {
-            "name":"css",
+            "name":"html",
             "color":"pink-text-gradient"
+         },
+          {
+            "name":"css",
+            "color":"red-text-gradient"
          }
       ],
       "image":adventureboy,
@@ -241,16 +249,20 @@ const projects = [
       "description":"A Complete Drawing Application like Microsoft Paint for creative drawing shapes, applying color, editing, image upload, stamps, etc. Developed with P5.jS libraries, HTML, CSS and Javascript.",
       "tags":[
          {
-            "name":"react",
+            "name":"javascript",
             "color":"blue-text-gradient"
          },
          {
-            "name":"restapi",
+            "name":"p5.js",
             "color":"green-text-gradient"
          },
          {
-            "name":"scss",
+            "name":"html",
             "color":"pink-text-gradient"
+         },
+          {
+            "name":"css",
+            "color":"red-text-gradient"
          }
       ],
       "image": drawing,
@@ -261,17 +273,25 @@ const projects = [
       "description":"Worked with colleage as Frontend Developer on synomemes social media application for sharing memes. With Authentication and Authorization, Meme sharing, likes, comments, and more. Built with PHP, Laravel, MySQL, HTML, CSS and Javascript.",
       "tags":[
          {
-            "name":"nextjs",
+            "name":"laravel",
             "color":"blue-text-gradient"
          },
          {
-            "name":"supabase",
+            "name":"php",
             "color":"green-text-gradient"
          },
          {
-            "name":"css",
+            "name":"html",
             "color":"pink-text-gradient"
-         }
+         },
+         {
+            "name":"css",
+            "color":"red-text-gradient"
+         },
+         {
+            "name":"javascript",
+            "color":"blue-text-gradient"
+         },        
       ],
       "image": synomemes,
       "source_code_link":"https://github.com/"
