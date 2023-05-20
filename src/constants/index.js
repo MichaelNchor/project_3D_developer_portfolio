@@ -415,26 +415,26 @@ const projects = [
       "image":rockpaperscissors,
       "source_code_link":"https://github.com/"
    },
-   {
-      "name":"Anime Documentation page",
-      "description":"Documentation for one piece characters with nightmode, built with HTML, CSS and Javascript.",
-      "tags":[
-         {
-            "name":"nextjs",
-            "color":"blue-text-gradient"
-         },
-         {
-            "name":"supabase",
-            "color":"green-text-gradient"
-         },
-         {
-            "name":"css",
-            "color":"pink-text-gradient"
-         }
-      ],
-      "image":onepiece,
-      "source_code_link":"https://github.com/"
-   }
+//    {
+//       "name":"Anime Documentation page",
+//       "description":"Documentation for one piece characters with nightmode, built with HTML, CSS and Javascript.",
+//       "tags":[
+//          {
+//             "name":"nextjs",
+//             "color":"blue-text-gradient"
+//          },
+//          {
+//             "name":"supabase",
+//             "color":"green-text-gradient"
+//          },
+//          {
+//             "name":"css",
+//             "color":"pink-text-gradient"
+//          }
+//       ],
+//       "image":onepiece,
+//       "source_code_link":"https://github.com/"
+//    }
 ];
 
 export { services, technologies, experiences, testimonials, projects };
