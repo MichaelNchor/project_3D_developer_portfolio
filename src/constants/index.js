@@ -1,4 +1,6 @@
 import {
+  uits, 
+  ilp,
   todolist,
   slack,
   adventureboy,
@@ -128,7 +130,7 @@ const experiences = [
   {
     title: "Software Developer",
     company_name: "University Information Technology Services (UITS)",
-    icon: starbucks,
+    icon: uits,
     iconBg: "#383E56",
     date: "Oct 2022 - Oct 2023",
     points: [
@@ -143,7 +145,7 @@ const experiences = [
   {
     title: "Digital Marketing Intern",
     company_name: "International Learning Planners(ILP Overseas)",
-    icon: tesla,
+    icon: ilp,
     iconBg: "#E6DEDD",
     date: "Nov 2021 - Apr 2022",
     points: [
