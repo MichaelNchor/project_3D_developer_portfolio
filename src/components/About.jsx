@@ -44,7 +44,7 @@ const About = () => {
         <h2 className={styles.sectionHeadText}>Overview.</h2>
       </motion.div>
 
-     <img className='rounded-full w-60 h-60 m-6' src={me} alt='image description' />
+     <img className='rounded-full w-60 h-60 m-6 shadow-card' src={me} alt='image description' />
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
