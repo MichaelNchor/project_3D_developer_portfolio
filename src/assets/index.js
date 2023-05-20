@@ -49,7 +49,10 @@ import slack from "./slack.png";
 import me from "./me.jpg";
 import joe from "./joe.png";
 
+import resume from "./cv_nchor michael.pdf";
+
 export {
+  resume,
   joe,
   me,
   uits,
