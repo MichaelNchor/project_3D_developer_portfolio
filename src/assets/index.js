@@ -30,7 +30,34 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import todolist from "./TodoList.png";
+import adventureboy from "./adventure-boy.png";
+import datavis from "./datavis.png";
+import drawing from "./drawing.png";
+import hallofmusic from "./hall-of-music.png";
+import keeper from "./keeper.png";
+import musicvis from "./musicvis.png";
+import onepiece from "./onepiece.png";
+import parksite from "./parksite.png";
+import rockpaperscissors from "./rock-paper-scissors.png";
+import superstore from "./superstore.png";
+import synomemes from "./synomemes.png";
+import warehouse from "./warehouse.png";
+
 export {
+  todolist,
+  adventureboy,
+  datavis,
+  drawing,
+  hallofmusic,
+  keeper,
+  musicvis,
+  onepiece,
+  parksite,
+  rockpaperscissors,
+  superstore,
+  synomemes,
+  warehouse,
   logo,
   backend,
   creator,
