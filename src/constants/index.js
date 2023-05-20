@@ -195,6 +195,46 @@ const projects = [
       "image": superstore,
       "source_code_link":"https://github.com/"
    },
+     {
+      "name":"Slack Clone Messaging Application",
+      "description":"A Complete Slack clone with Authentication and Authorization, Channel creation, direct messaging, texting with images, videos and emojis, sharing and watching external links in app (e.g. Youtube) and more. Developed with ReactJS, ExpressJS, NodeJS and Stream API.",
+      "tags":[
+         {
+            "name":"nextjs",
+            "color":"blue-text-gradient"
+         },
+         {
+            "name":"supabase",
+            "color":"green-text-gradient"
+         },
+         {
+            "name":"css",
+            "color":"pink-text-gradient"
+         }
+      ],
+      "image":"slack",
+      "source_code_link":"https://github.com/"
+   },
+     {
+      "name":"Endless Runner Video Game",
+      "description":"An adventure game, adventure boy, where player has to escape obstacles, risk losing lives to earn coins and capture the flag at the end. Built with P5.JS libraries, HTML, CSS and JS.",
+      "tags":[
+         {
+            "name":"nextjs",
+            "color":"blue-text-gradient"
+         },
+         {
+            "name":"supabase",
+            "color":"green-text-gradient"
+         },
+         {
+            "name":"css",
+            "color":"pink-text-gradient"
+         }
+      ],
+      "image":adventureboy,
+      "source_code_link":"https://github.com/"
+   },
    {
       "name":"Sketching Application",
       "description":"A Complete Drawing Application like Microsoft Paint for creative drawing shapes, applying color, editing, image upload, stamps, etc. Developed with P5.jS libraries, HTML, CSS and Javascript.",
@@ -233,46 +273,6 @@ const projects = [
          }
       ],
       "image": synomemes,
-      "source_code_link":"https://github.com/"
-   },
-   {
-      "name":"Slack Clone Messaging Application",
-      "description":"A Complete Slack clone with Authentication and Authorization, Channel creation, direct messaging, texting with images, videos and emojis, sharing and watching external links in app (e.g. Youtube) and more. Developed with ReactJS, ExpressJS, NodeJS and Stream API.",
-      "tags":[
-         {
-            "name":"nextjs",
-            "color":"blue-text-gradient"
-         },
-         {
-            "name":"supabase",
-            "color":"green-text-gradient"
-         },
-         {
-            "name":"css",
-            "color":"pink-text-gradient"
-         }
-      ],
-      "image":"slack",
-      "source_code_link":"https://github.com/"
-   },
-   {
-      "name":"Endless Runner Video Game",
-      "description":"An adventure game, adventure boy, where player has to escape obstacles, risk losing lives to earn coins and capture the flag at the end. Built with P5.JS libraries, HTML, CSS and JS.",
-      "tags":[
-         {
-            "name":"nextjs",
-            "color":"blue-text-gradient"
-         },
-         {
-            "name":"supabase",
-            "color":"green-text-gradient"
-         },
-         {
-            "name":"css",
-            "color":"pink-text-gradient"
-         }
-      ],
-      "image":adventureboy,
       "source_code_link":"https://github.com/"
    },
    {
