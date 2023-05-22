@@ -222,8 +222,8 @@ const projects = [
          }
       ],
       "image":slack,
-      "source_code_link":"https://github.com/",
-       "live_demo_link":"#",
+      "source_code_link":"https://github.com/MichaelNchor/messaging-app-server/",
+       "live_demo_link":"https://messaging-app-server-1v1l.onrender.com/",
    },
      {
       "name":"Endless Runner Video Game",
