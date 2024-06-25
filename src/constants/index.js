@@ -40,6 +40,10 @@ import {
   jobit,
   tripguide,
   threejs,
+  csharp,
+  redis, 
+  postgres,
+  aspnet
 } from "../assets";
 
 export const navLinks = [
@@ -59,7 +63,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Software & Web Developer",
+    title: "Software Engineer",
     icon: web,
   },
   {
@@ -74,28 +78,28 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
-  },
-  {
-    name: "CSS 3",
-    icon: css,
+    name: "C#",
+    icon: csharp,
   },
   {
     name: "JavaScript",
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
+    name: "ASP.NET",
+    icon: aspnet,
   },
   {
     name: "React JS",
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "PostgreSQL",
+    icon: postgres,
+  },
+  {
+    name: "Redis",
+    icon: redis,
   },
   {
     name: "Tailwind CSS",
@@ -108,10 +112,6 @@ const technologies = [
   {
     name: "MongoDB",
     icon: mongodb,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
   },
   {
     name: "git",
