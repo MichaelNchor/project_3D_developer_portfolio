@@ -50,6 +50,10 @@ import me from "./me.jpg";
 import joe from "./joe.png";
 
 import resume from "./cv_nchor michael.pdf";
+import csharp from "./csharp.jpg";
+import postgres from "./postgres.png";
+import redis from "./redis.jpg";
+import aspnet from "./aspnet.png";
 
 export {
   resume,
@@ -99,4 +103,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  csharp,
+  redis, 
+  postgres,
+  aspnet
 };
