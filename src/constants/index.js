@@ -45,7 +45,9 @@ import {
   postgres,
   aspnet,
   hubtel,
-  youtube
+  youtube,
+  hubtelhealth,
+  leasify
 } from "../assets";
 
 export const navLinks = [
@@ -215,6 +217,48 @@ const testimonials = [
 ];
 
 const projects = [
+     {
+      "name":"Hubtel Health",
+      "description":"A Software as a Service (SAAS) application designed to streamline personnel and patient management within hospital settings. This application comprises three distinct portals: one for managing Caregivers (including roles such as Doctors, Nurses, and Revenue Officers), another for Patients, and a third for Finance Super Admins.The Caregiver Portal empowers healthcare professionals to efficiently oversee patients and resources, offering features such as patient management, inventory control, and performance reporting.",
+      "tags":[
+         {
+            "name":"c#",
+            "color":"green-text-gradient"
+         },
+         {
+            "name":"redis",
+            "color":"pink-text-gradient"
+         },
+         {
+            "name":"postgres",
+            "color":"blue-text-gradient"
+         }
+      ],
+      "image": hubtelhealth,
+      "source_code_link":"#",
+     "live_demo_link":"#",
+   },
+     {
+      "name":"Leasify",
+      "description":"Developed a Property Management System using Node and Express.js with key features including: Tenant Management: Lease handling, rent collection, communication, and maintenance. Financial Tracking: Record payments, generate reports, and track expenses. Maintenance Requests: Easy submission and status tracking. Document Access: Secure storage with version control. Dashboards and Reports: Key metrics and financial summaries. Communication Tools: Integrated messaging",
+      "tags":[
+         {
+            "name":"nodejs",
+            "color":"blue-text-gradient"
+         },
+         {
+            "name":"expressjs",
+            "color":"pink-text-gradient"
+         },
+         {
+            "name":"bootstrap",
+            "color":"red-text-gradient"
+         }
+      ],
+      "image": leasify,
+      "source_code_link":"https://github.com/MichaelNchor/propertymanagementapp.git",
+     "live_demo_link":"https://propertymanagementapp.onrender.com",
+   },
    {
       "name":"Superstore Application",
       "description":"A Complete Online store Application with Authentication and Authorization, Admin and User routes, Paypal Payment, Currency change, product review and more. Built with ExpressJS, NodeJS, MongoDB, EJS Templating, HTML, CSS and Javascript.",
