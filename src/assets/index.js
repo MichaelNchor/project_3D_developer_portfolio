@@ -54,6 +54,8 @@ import csharp from "./csharp.jpg";
 import postgres from "./postgres.png";
 import redis from "./redis.jpg";
 import aspnet from "./aspnet.png";
+import hubtelhealth from "./hubtelhealth.png";
+import leasify from "./leasify.png";
 
 export {
   resume,
@@ -108,5 +110,7 @@ export {
   postgres,
   aspnet,
   hubtel,
-  youtube
+  youtube,
+  hubtelhealth,
+  leasify
 };
