@@ -43,7 +43,9 @@ import {
   csharp,
   redis, 
   postgres,
-  aspnet
+  aspnet,
+  hubtel,
+  youtube
 } from "../assets";
 
 export const navLinks = [
@@ -129,6 +131,20 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Software Engineer (Backend)",
+    company_name: "Hubtel.com",
+    icon: hubtel,
+    iconBg: "#E6DEDD",
+    date: "Oct 2023 - Present",
+    points: [
+      "Contributed to the codebase and Developed Api’s, Jobs and Consumers in C# using the .NET framework.",
+      "Worked in the Health and User Accounts team where I contributed to the codebase by developing new features, addressing bugs and unit testing.",
+      "Write elegant code using principles such as SOLID, YAGNI, KISS, DRY.
+      "Participate in weekly team presentations where we gave updates of our work over the work week."
+      "Work with technologies like ASP.NET, Azure DevOps, Redis, Elastic Search, Kafka, SDKs, Signal R, Quartz Jobs Scheduling, PostgreSQL and Unit Testing.",
+    ],
+  },
+  {
     title: "Software Developer",
     company_name: "University Information Technology Services (UITS)",
     icon: uits,
@@ -156,13 +172,33 @@ const experiences = [
     ],
   },
   {
-    title: "Web and Software evelopment Freelancing",
+    title: "Web and Software Development Freelancing",
     company_name: "Self-Employed",
     icon: meta,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
-      "Build websites and Applications for clients and teach how to code.",
+      "Build web Applications for clients and teach how to code",
+    ],
+  },
+    {
+    title: "Web and Software Development Freelancing",
+    company_name: "Self-Employed",
+    icon: javascript,
+    iconBg: "#E6DEDD",
+    date: "",
+    points: [
+      "Build web Applications for clients and teach how to code",
+    ],
+  },
+  {
+    title: "Youtube",
+    company_name: "Mike's Code Journal",
+    icon: youtube,
+    iconBg: "#E6DEDD",
+    date: "",
+    points: [
+      "I started a YouTube channel called Mike’s Code Journal where I upload videos on programming concepts",
     ],
   },
 ];
