@@ -50,11 +50,14 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in
-        JavaScript and expertise in frameworks like React, Express.js, Node.js, and
-        p5.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I'm a skilled software developer with experience in C# and
+        JavaScript.  I write elegant efficient code with principles such as
+        SOLID, KISS, YAGNI, DRY etc.I have experience in using Backend Technologies like Docker, Elastic Search, Redis, PostgreSQL,
+        MongoDB also Background Services, Jobs, API’s with .NET. Also built backends with Node and Express. Built projects with
+        Frontend technologies including React, Next JS, P5.JS. I am willing to work to develop both myself and any company I find
+        myself in. I am hardworking, diligent and dedicated to see all my projects through. I have a degree in Mathematics of the Kwame
+        Nkrumah University of Science and Technology, Ghana, and a Computer Science student of the University of London, United
+        Kingdom (Online)
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
