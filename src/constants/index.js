@@ -146,6 +146,16 @@ const experiences = [
       "Work with technologies like ASP.NET, Azure DevOps, Redis, Elastic Search, Kafka, SDKs, Signal R, Quartz Jobs Scheduling, PostgreSQL and Unit Testing.",
     ],
   },
+    {
+    title: "Youtube",
+    company_name: "Mike's Code Journal",
+    icon: youtube,
+    iconBg: "#E6DEDD",
+    date: "April 2024 - Present",
+    points: [
+      "I started a YouTube channel called Mike’s Code Journal where I upload videos on programming concepts",
+    ],
+  },
   {
     title: "Software Developer",
     company_name: "University Information Technology Services (UITS)",
@@ -191,16 +201,6 @@ const experiences = [
     date: "",
     points: [
       "Build web Applications for clients and teach how to code",
-    ],
-  },
-  {
-    title: "Youtube",
-    company_name: "Mike's Code Journal",
-    icon: youtube,
-    iconBg: "#E6DEDD",
-    date: "",
-    points: [
-      "I started a YouTube channel called Mike’s Code Journal where I upload videos on programming concepts",
     ],
   },
 ];
