@@ -56,6 +56,8 @@ import redis from "./redis.jpg";
 import aspnet from "./aspnet.png";
 import hubtelhealth from "./hubtelhealth.png";
 import leasify from "./leasify.png";
+import hubtel from "./hubtel.png";
+import youtube from "./youtube.png";
 
 export {
   resume,
