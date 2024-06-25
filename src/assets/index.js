@@ -106,5 +106,7 @@ export {
   csharp,
   redis, 
   postgres,
-  aspnet
+  aspnet,
+  hubtel,
+  youtube
 };
