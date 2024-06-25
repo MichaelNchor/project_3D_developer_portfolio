@@ -142,7 +142,7 @@ const experiences = [
       "Contributed to the codebase and Developed Api’s, Jobs and Consumers in C# using the .NET framework.",
       "Worked in the Health and User Accounts team where I contributed to the codebase by developing new features, addressing bugs and unit testing.",
       "Write elegant code using principles such as SOLID, YAGNI, KISS, DRY.",
-      "Participate in weekly team presentations where we gave updates of our work over the work week."
+      "Participate in weekly team presentations where we gave updates of our work over the work week.",
       "Work with technologies like ASP.NET, Azure DevOps, Redis, Elastic Search, Kafka, SDKs, Signal R, Quartz Jobs Scheduling, PostgreSQL and Unit Testing.",
     ],
   },
