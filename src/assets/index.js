@@ -49,7 +49,7 @@ import slack from "./slack.png";
 import me from "./me.jpg";
 import joe from "./joe.png";
 
-import resume from "./cv_nchor michael.pdf";
+import resume from "./Software_Dev_Resume.pdf";
 import csharp from "./csharp.jpg";
 import postgres from "./postgres.png";
 import redis from "./redis.jpg";
